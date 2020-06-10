@@ -4,7 +4,7 @@ import HelloWorld from './HelloWorld'
 function App() {
   return (
     <div>
-      <HelloWorld name="Safi Saqlain "/>
+      <HelloWorld name="Safi Haider "/>
     </div>
   );
 }
